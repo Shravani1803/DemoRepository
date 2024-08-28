@@ -1,4 +1,4 @@
 # DemoRepository
 This is my first Git Repository
 <br>
-Author-Shravani Gulhane
+Author-Shravani Sanjay Gulhane
